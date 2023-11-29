@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kawasaki",
+    "animal": "penguin",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4272.png"
+  },
+  {
+    "name": "Cardgo",
+    "animal": "penguin",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4273-1.png"
+  },
+  {
+    "name": "Crico",
+    "animal": "penguin",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4274.png"
+  },
+  {
+    "name": "Estriper",
+    "animal": "penguin",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4271-1.png"
+  }
+]
